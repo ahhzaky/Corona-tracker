@@ -46,3 +46,4 @@ npm start
 ## Authors
 
 - **Ahmad Zaky**
+  reference from the video [JavaScript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
