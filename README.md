@@ -34,6 +34,11 @@ npm run start
     <img src="/screenshot/pic2.jpg" width="400px"</img> 
 </div>
 
+## Deploy With
+
+- [Netlify](https://www.netlify.com/)
+
+
 ## Built With
 
 - [Nodes](https://nodejs.org/en/)
@@ -42,6 +47,7 @@ npm run start
 - [chart.js](https://www.chartjs.org/)
 - [classnames](https://www.npmjs.com/package/classnames)
 - [material-ui](https://material-ui.com/)
+
 
 ## Authors
 
