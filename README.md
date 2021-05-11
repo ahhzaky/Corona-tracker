@@ -7,7 +7,7 @@ and use the API:
 ```
 https://covid19.mathdro.id/api
 ```
-## <a href="https://eager-hugle-0c0c12.netlify.app/">LIVE DEMO</a>
+## <a href="https://corona-traker.netlify.app/">LIVE DEMO</a>
 
 ### installing
 
