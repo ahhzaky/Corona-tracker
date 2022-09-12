@@ -37,7 +37,7 @@ npm run start
 ## Deploy With
 
 - [Netlify](https://www.netlify.com/)
--[![Netlify Status](https://api.netlify.com/api/v1/badges/230452ba-105d-4633-8dc9-bf7fdb0a917c/deploy-status)](https://app.netlify.com/sites/corona-traker/deploys)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/230452ba-105d-4633-8dc9-bf7fdb0a917c/deploy-status)](https://app.netlify.com/sites/corona-traker/deploys)
 
 
 
